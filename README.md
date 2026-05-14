@@ -1,60 +1,97 @@
-# cybersecurity-labs
-Hands-on cybersecurity, networking, and ICT support labs (OWASP, Linux, Wireshark, Nmap, system admin basics).
 # 🔐 Cybersecurity & ICT Labs
 
-## 👨‍💻 Overview
-This repository contains my hands-on cybersecurity and ICT practice labs covering web security, networking, system administration, and basic penetration testing concepts.
+Hands-on cybersecurity, networking, and ICT support labs covering OWASP security concepts, Linux administration, Wireshark analysis, Nmap scanning, and system administration fundamentals.
 
-It is part of my continuous development as an ICT Support & Cybersecurity professional.
+---
+
+## 👨‍💻 Overview
+
+This repository documents my practical cybersecurity and ICT learning journey through hands-on labs, security tool usage, networking exercises, and system administration practice.
+
+The goal is to build real-world technical skills aligned with:
+- ICT Support
+- Network Administration
+- Cybersecurity Operations
+- System Troubleshooting
+- Infrastructure Support
 
 ---
 
 ## 🧪 Lab Categories
 
-### 🌐 Web Security (OWASP Basics)
-- SQL Injection testing (lab environment)
-- Cross-Site Scripting (XSS) simulations
-- Authentication testing concepts
-- Input validation experiments
+### 🌐 Web Security Labs
+- SQL Injection (SQLi) concepts
+- Cross-Site Scripting (XSS)
+- Authentication security basics
+- Input validation testing
+- OWASP Top 10 practice
 
 ---
 
-### 🖧 Networking Labs
+### 🖧 Networking & ICT Labs
 - IP addressing practice
-- DNS & DHCP understanding
-- Basic router configuration (Packet Tracer)
-- Network troubleshooting scenarios
+- DNS & DHCP concepts
+- Network troubleshooting
+- Connectivity testing
+- Router & infrastructure fundamentals
+- Packet Tracer networking simulations
 
 ---
 
-### 💻 System Administration
-- Windows troubleshooting commands
-- Linux basic commands
-- File permissions
-- User management basics
+### 💻 System Administration Labs
+- Linux terminal usage
+- Windows troubleshooting basics
+- File permissions & user management
+- Basic system monitoring
 
 ---
 
 ### 🔍 Security Tools Practice
-- Nmap basic scanning
+- Nmap / Zenmap scanning
 - Wireshark packet analysis
-- Network discovery techniques
+- Network enumeration
+- Connectivity diagnostics
 
 ---
 
-## 🛠 Tools Used
+## 📸 Practical Lab Evidence
+
+### 🖥 Linux Terminal Networking Commands
+Basic Linux networking and connectivity testing using Kali Linux.
+
+![Linux Terminal Lab](https://github.com/BARONWILLIAMS1/cybersecurity-labs/blob/main/terminal.png)
+
+---
+
+### 📡 Wireshark Packet Capture
+Packet analysis and network traffic monitoring using Wireshark.
+
+![Wireshark Capture](https://github.com/BARONWILLIAMS1/cybersecurity-labs/blob/main/wireshark-capture.png)
+
+---
+
+### 🔎 Zenmap / Nmap Scan
+Basic network discovery and port scanning in a lab environment.
+
+![Zenmap Scan](http://github.com/BARONWILLIAMS1/cybersecurity-labs/blob/main/Zenmap_capture.png)
+
+---
+
+## 🛠 Tools & Technologies
 - Kali Linux
 - Wireshark
-- Nmap
+- Nmap / Zenmap
 - Cisco Packet Tracer
+- Git & GitHub
 - Windows CMD / PowerShell
 - Linux Terminal
 
 ---
 
-## 🎯 Goal
-To build practical ICT, networking, and cybersecurity skills aligned with real-world IT support and infrastructure roles.
+## 🎯 Objective
+
+To continuously develop practical ICT infrastructure, networking, system administration, and cybersecurity skills through real-world labs and technical experimentation.
 
 ---
 
-⭐ Continuously updated as I learn and practice.
+⭐ Continuously updated with new labs, networking exercises, and cybersecurity practice projects.
