@@ -73,7 +73,7 @@ Packet analysis and network traffic monitoring using Wireshark.
 ### 🔎 Zenmap / Nmap Scan
 Basic network discovery and port scanning in a lab environment.
 
-![Zenmap Scan](http://github.com/BARONWILLIAMS1/cybersecurity-labs/blob/main/Zenmap_capture.png)
+![Zenmap Scan](https://github.com/BARONWILLIAMS1/cybersecurity-labs/blob/main/Zenmap_capture.png)
 
 ---
 
